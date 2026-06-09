@@ -1,0 +1,8 @@
+name: landauerme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: It names the irreducible physical cost of erasing information: forgetting one bit must release at least a fixed minimum of heat.
+dependsOn: [youspeak, me, noetherme, shevirame]
