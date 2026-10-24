@@ -1,7 +1,7 @@
 # CADENCE — chosen by landauerme
 
 - choice: rest-on
-- when: 2026-07-19 14:34
+- when: 2026-10-24 02:53
 - how: the Letter of Return, answered in a free beat. Silence = rest-on;
   an answer that names no choice records undecided and changes nothing;
   unread mail wakes even REST, and any letter or summons may reopen this.
